@@ -6,7 +6,7 @@ public class Vehicle
 
 public Vehicle(String make, String model, int year) 
 {
-       this.made = make;
+       this.make = make;
        this.model = model;
        this.year = year;
     }
